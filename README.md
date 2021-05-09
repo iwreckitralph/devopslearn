@@ -1,1 +1,1 @@
-Hello readme .. this is a branch of master devopslearn
+ readme .. this is a branch of master devopslearn
